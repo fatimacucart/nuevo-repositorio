@@ -1,3 +1,4 @@
 # nuevo-repositorio
 este es el ejercicio de clase
-Comentario rama 1
+Lo estamos haciendo Fati y Gemma 
+comentario rama 1
